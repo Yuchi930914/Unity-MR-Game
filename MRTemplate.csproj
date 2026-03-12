@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FF0B5853-AE21-95DF-E1EA-10F23C249B11}</ProjectGuid>
+    <ProjectGuid>{547183FC-A705-0C99-34D4-20CF139F5E5D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MRTemplate</AssemblyName>
@@ -1216,11 +1216,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{E965D3A1-D697-4EFE-2F68-0F8FF8D4BC4B}</Project>
+      <Project>{2E7B1650-0DE0-F5BF-6933-6049FEB4FCAF}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj">
-      <Project>{C9749374-8F1E-AC02-1057-065E17CD7F87}</Project>
+      <Project>{AAA25B11-BD7B-934A-FCDD-F3FEC10715CD}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets</Name>
     </ProjectReference>
   </ItemGroup>

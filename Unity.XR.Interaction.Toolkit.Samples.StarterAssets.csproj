@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E965D3A1-D697-4EFE-2F68-0F8FF8D4BC4B}</ProjectGuid>
+    <ProjectGuid>{2E7B1650-0DE0-F5BF-6933-6049FEB4FCAF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</AssemblyName>
